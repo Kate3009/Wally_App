@@ -20,6 +20,9 @@ namespace WALLY_PROJECT.Models
             public string U_Perfil { get; set; } // ADMIN, CLIENTE
             public char? U_Estado { get; set; }
 
+
+
+
         
 
     }
