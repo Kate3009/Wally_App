@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WALLY_PROJECT",
+    "\\WALLY_PROJECT\\Models"
   ],
-  "SelectedNode": "\\C:\\Users\\dayan\\Source\\Repos\\Wally_App",
+  "SelectedNode": "\\WALLY_PROJECT\\Models\\Usuario.cs",
   "PreviewInSolutionExplorer": false
 }
