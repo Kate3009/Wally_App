@@ -68,7 +68,7 @@ namespace WALLY_PROJECT.Controllers
         public ActionResult Delete(int id)
         {
             return View();
-        }
+        }       
 
         // POST: Usuario/Delete/5
         [HttpPost]
